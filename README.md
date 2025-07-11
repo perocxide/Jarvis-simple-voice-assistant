@@ -10,18 +10,27 @@ A lightweight voice assistant built in Python that can recognize voice commands 
 
 ## 🛠️ Installation
 
-bash
+```bash
 git clone https://github.com/perocxide/Jarvis-simple-voice-assistant.git
 cd Jarvis-simple-voice-assistant
 python -m venv jenv
 source jenv/bin/activate  # or jenv\Scripts\activate on Windows
-pip install -r requirements.txt 
+pip install -r requirements.txt
+```
 
-## ***🚀 How to Run***
+## 🚀 How to Run
+
+```bash
 python jarvis.py
+```
 
-## ***🧠 Technologies Used*** 
-Python 3,
-speech_recognition,
-pyttsx3,
-os, webbrowser, and more
+## 🧠 Technologies Used
+
+- Python 3
+- `speech_recognition`
+- `pyttsx3`
+- `os`, `webbrowser`, and more
+
+## 📄 License
+
+MIT License
